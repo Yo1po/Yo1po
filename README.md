@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yo1po
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS and a little bit of JS for websites
+- 🌱 I try making Minecraft mods, but I am bad, and I need Help
 - 💞️ I am open to advices
 - 📫 How to reach me on twitter @Yopo331
 
